@@ -1,4 +1,4 @@
-# Create a locally hosted networked Software Defined Radio (SDR) network!
+# Create a locally hosted & networked Software Defined Radio (SDR) network!
 This repo contains the files needed to install [OpenWebRX] (https://www.openwebrx.de/), a web-based SDR receiver running in a Docker container, connected to a SDR streaming over your local network.
 
 <img src="https://github.com/Robert-litts/sdr-network/blob/main/remote_sdr_diagram.png" width="450" height="450">
